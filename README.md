@@ -5,7 +5,7 @@ This repository contains all the code for the work produced in the MAT3036 Liter
 ## Requirements
 
 - Python 3.10+
-- PyTorch
-- NumPy
-- scikit-learn
-- Matplotlib
+- [PyTorch](https://pytorch.org/)
+- [NumPy](https://numpy.org/)
+- [scikit-learn](https://scikit-learn.org/)
+- [Matplotlib](https://matplotlib.org/)
