@@ -2,4 +2,10 @@
 
 This repository contains all the code for the work produced in the MAT3036 Literature Review module at the University of Surrey, School of Mathematics and Physics.
 
-All deep learning models in this repository are implemented in PyTorch.
+## Requirements
+
+- Python 3.10+
+- PyTorch
+- NumPy
+- scikit-learn
+- Matplotlib
