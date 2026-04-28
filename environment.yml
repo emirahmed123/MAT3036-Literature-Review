@@ -1,0 +1,16 @@
+name: lit-review
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.10
+  - pytorch
+  - torchvision
+  - numpy
+  - matplotlib
+  - scikit-learn
+  - scipy
+  - seaborn
+  - kneed
