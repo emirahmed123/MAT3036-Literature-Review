@@ -4,8 +4,8 @@ This repository contains all the code for the work produced in the MAT3036 Liter
 
 The primary contribution of this repository is a PyTorch reimplementation of the Deep Convolutional Embedded Clustering (DCEC) model, developed as part of Chapter 6 of the accompanying report. The implementation was built from the original publication to reproduce and evaluate the proposed method.
 
-- **Unsupervised Deep Embedding for Clustering Analysis:** https://arxiv.org/pdf/1511.06335
-- **Deep Clustering with Convolutional Autoencoders:** https://xifengguo.github.io/papers/ICONIP17-DCEC.pdf
+- [Unsupervised Deep Embedding for Clustering Analysis](https://arxiv.org/pdf/1511.06335)
+- [Deep Clustering with Convolutional Autoencoders](https://xifengguo.github.io/papers/ICONIP17-DCEC.pdf)
 
 ## Requirements
 
